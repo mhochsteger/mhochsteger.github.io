@@ -1,0 +1,10 @@
+{
+  "mapp": {
+    "id": "mapp",
+    "python_class": "mapp.app.Mapp",
+    "frontend_pip_dependencies": ["pillow"],
+    "frontend_dependencies": [],
+    "description": "Map App to visualizes different maps and upload/align plans/images, based on Openlayers",
+    "logo": {}
+  }
+}
